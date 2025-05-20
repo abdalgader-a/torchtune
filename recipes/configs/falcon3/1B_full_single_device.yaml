@@ -43,7 +43,7 @@ checkpointer:
     model.safetensors,
   ]
   recipe_checkpoint: null
-  output_dir: /tmp/Falcon3-1B-Base
+  output_dir: /tmp/Falcon3-1B-Base-tune
   model_type: FALCON3
 resume_from_checkpoint: False
 
